@@ -1,0 +1,3 @@
+﻿  prak10_Vysotskiy.cpp
+C:\Users\st310-08\Desktop\Vysotskiy_PR32\systemnoprog\prak10_SP_Vysotskiy\prak10_Vysotskiy.cpp(396,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  prak10_Vysotskiy.vcxproj -> C:\Users\st310-08\Desktop\Vysotskiy_PR32\systemnoprog\prak10_SP_Vysotskiy\x64\Debug\prak10_Vysotskiy.exe
